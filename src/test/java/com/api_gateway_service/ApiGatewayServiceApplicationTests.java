@@ -1,4 +1,4 @@
-package com.consultingfirm.api_gateway_service;
+package com.api_gateway_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

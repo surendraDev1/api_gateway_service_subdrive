@@ -1,4 +1,4 @@
-package com.consultingfirm.api_gateway_service;
+package com.api_gateway_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

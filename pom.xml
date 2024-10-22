@@ -10,9 +10,9 @@
 	</parent>
 
 	<groupId>com.consultingfirm</groupId>
-	<artifactId>api_gateway_service</artifactId>
+	<artifactId>api-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>api_gateway_service</name>
+	<name>api-gateway</name>
 	<description>API Gateway Service for Consulting Firm</description>
 
 	<properties>

@@ -1,4 +1,4 @@
-package com.api_gateway_service.domain;
+package com.subdrive.apigateway.domain;
 
 
 public class PasswordResetDto {

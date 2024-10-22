@@ -1,4 +1,4 @@
-package com.api_gateway_service.config;
+package com.subdrive.apigateway.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.reactive.config.CorsRegistry;
